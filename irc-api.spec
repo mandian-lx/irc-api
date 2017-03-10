@@ -7,7 +7,7 @@
 Summary:	A Java IRC API
 Name:		irc-api
 Version:	1.0.0015
-Release:	0
+Release:	1
 License:	ASL 2.0
 Group:		Development/Java
 URL:		https://github.com/migzai/%{name}
